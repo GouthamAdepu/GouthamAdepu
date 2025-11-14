@@ -147,18 +147,11 @@ const goutham = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GouthamAdepu/GouthamAdepu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GouthamAdepu/GouthamAdepu/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GouthamAdepu/GouthamAdepu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
-<div align="center">
-  
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thanks for visiting my profile! Feel free to reach out and connect!** 🚀
