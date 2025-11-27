@@ -1,146 +1,160 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Goutham+Adepu;Full+Stack+Developer;Problem+Solver+%26+Innovator;Always+Learning+New+Things!" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+#  Goutham Adepu
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Building+the+Future+with+Code+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GouthamAdepu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/GouthamAdepu?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/GouthamAdepu?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="followers" />
+  <img src="https://img.shields.io/github/stars/GouthamAdepu?label=Stars&style=for-the-badge&color=ffd700&labelColor=1a1a1a" alt="stars" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
-## 💫 About Me
+## 🌟 About Me
 
-```javascript
-const goutham = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentFocus: "Full Stack Development",
-    askMeAbout: ["Web Dev", "Tech", "Problem Solving", "Innovation"],
-    technologies: {
-        languages: ["C", "C++", "Java", "Python", "JavaScript"],
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "React"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MySQL", "MongoDB"],
-        tools: ["Git", "VS Code", "Postman"],
-        interests: ["AI/ML", "Web3", "Open Source"]
-    },
-    currentlyLearning: "React Native & Cloud Technologies ☁️",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+```typescript
+class Developer {
+  name: string = "Goutham Adepu";
+  location: string = "India 🇮🇳";
+  title: string = "Full Stack Developer";
+  
+  skills = {
+    languages: ["C", "C++", "Java", "Python", "JavaScript", "TypeScript"],
+    frontend: ["React", "HTML5", "CSS3", "TailwindCSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code", "Postman", "Vercel"],
+    currentlyExploring: ["React Native", "Cloud Technologies", "Web3", "AI/ML"]
+  };
+  
+  goals2025 = [
+    "Contribute to 50+ open source projects",
+    "Master cloud architecture",
+    "Build impactful products",
+    "Share knowledge through blogs"
+  ];
+  
+  getQuote(): string {
+    return "Code with passion, debug with patience, deploy with confidence! 🚀";
+  }
+}
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  
+### 🎯 Current Focus
 
-### 🚀 What I'm up to:
+</div>
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **React, Node.js & Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, DSA, and Tech**
-- 📫 How to reach me: **adepugouthamsribhargav@gmail.com**
-- ⚡ Fun fact: **I think semicolons are overrated in JavaScript!**
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <b>🔭 Working On</b><br>
+      Full Stack Web Applications<br>
+      & Open Source Contributions
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+      <b>🌱 Currently Learning</b><br>
+      React Native<br>
+      Cloud Technologies & DevOps
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+      <b>👯 Looking to Collaborate</b><br>
+      Open Source Projects<br>
+      Innovative Web Applications
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+      <b>💬 Ask Me About</b><br>
+      Web Dev, DSA, Tech<br>
+      Problem Solving & Innovation
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
+<div align="center">
+  
+## 🛠️ Tech Arsenal
 
-## 🌐 Connect With Me:
+### Languages & Frameworks
 
-<p align="center">
-  <a href="https://linkedin.com/in/goutham-adepu-6824382aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/_goutham_adepu_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/goutham.adepu2007" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:gouthamadepu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/GouthamAdepu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nodejs,express,html,css,tailwind,bootstrap&theme=dark" />
 
-## 💻 Tech Stack:
+### Databases & Tools
 
-### 👨‍💻 Programming Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,docker,vercel,npm,linux&theme=dark" />
 
-### 🎨 Frontend Development:
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</p>
+</div>
 
-### ⚙️ Backend Development:
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### 🗄️ Databases:
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+## 📊 GitHub Analytics
 
-### 🛠️ Tools & Technologies:
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GouthamAdepu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GouthamAdepu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamAdepu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GouthamAdepu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamAdepu&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouthamAdepu&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamAdepu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+## 🏆 Achievements
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GouthamAdepu&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GouthamAdepu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-## 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouthamAdepu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
 
-## 🎯 Featured Projects:
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/GouthamAdepu/Rate-limit-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamAdepu&repo=Rate-limit-converter&theme=radical" alt="Rate Limit Converter"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Rate Limit Converter</h3>
+      <div align="center">
+        <a href="https://github.com/GouthamAdepu/Rate-limit-converter" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamAdepu&repo=Rate-limit-converter&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rate Limit Converter"/>
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/GouthamAdepu/Rate-limit-converter" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Your Next Amazing Project</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+        <br><br>
+        <p>
+          <a href="https://github.com/GouthamAdepu?tab=repositories" target="_blank">
+            <img src="https://img.shields.io/badge/Explore-More-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-## 💡 Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
+</div>
 
-## 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GouthamAdepu/GouthamAdepu/output/github-contribution-grid-snake-dark.svg">
@@ -148,14 +162,46 @@ const goutham = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GouthamAdepu/GouthamAdepu/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+
+## 💭 Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/goutham-adepu-6824382aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GouthamAdepu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="mailto:adepugouthamsribhargav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/_goutham_adepu_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/goutham.adepu2007" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+</p>
+
+<br>
+
+### 💡 "First, solve the problem. Then, write the code." – John Johnson
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&animation=twinkling" width="100%">
+</p>
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thanks for visiting my profile! Feel free to reach out and connect!** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=GouthamAdepu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+**⭐ From [GouthamAdepu](https://github.com/GouthamAdepu) with 💙**
 
 </div>
