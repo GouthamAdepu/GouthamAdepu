@@ -40,7 +40,7 @@ const goutham = {
 - 🌱 Learning **React, Node.js & Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, DSA, and Tech**
-- 📫 How to reach me: **gouthamadepu@example.com**
+- 📫 How to reach me: **adepugouthamsribhargav@gmail.com**
 - ⚡ Fun fact: **I think semicolons are overrated in JavaScript!**
 
 <br clear="both">
